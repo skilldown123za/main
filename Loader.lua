@@ -16,7 +16,7 @@ local FONT_BLACK = _JJFonts.Black or Font.fromEnum(Enum.Font.GothamBlack)
 -- ✅ Register + RunCheck
 -- ==================================================
 
-local BASE_URL = "https://raw.githubusercontent.com/bromboxi/barsuno/main/"
+local BASE_URL = "https://raw.githubusercontent.com/skilldown123za/main/blob/main/main/"
 
 _G.YOKUDO_EnablePrint = false
 
